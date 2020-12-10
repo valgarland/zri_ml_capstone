@@ -1,0 +1,15 @@
+################################
+#Mac specific files
+
+.DS_Store
+
+################################
+#Data files
+
+*.csv
+/Admin/Archive
+
+################################
+#Jupyter Notebook file
+
+.ipynb_checkpoints

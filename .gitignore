@@ -13,3 +13,10 @@
 #Jupyter Notebook file
 
 .ipynb_checkpoints
+
+################################
+#Google BigQuery files
+
+*.json
+
+################################
